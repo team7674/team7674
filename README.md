@@ -1,6 +1,8 @@
 Team 7676 - The RaiderBots
 ==========================
 
+![Crescendo](https://github.com/team7674/team7674/crescendo.jpg)
+
 ## Sponsors
 
 NH Department of Education [link](https://www.education.nh.gov/)
