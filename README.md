@@ -1,7 +1,7 @@
 Team 7676 - The RaiderBots
 ==========================
 
-![Crescendo](https://github.com/team7674/team7674/crescendo.jpg)
+![Crescendo](https://github.com/team7674/team7674/blob/main/crescendo.jpg?raw=true)
 
 ## Sponsors
 
