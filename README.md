@@ -3,6 +3,10 @@ Team 7674 - The RaiderBots
 
 ![Crescendo](https://github.com/team7674/team7674/blob/main/crescendo.jpg?raw=true)
 
+## Robot 
+
+[2024 "Fat Albert](https://github.com/team7674/team7674/ROBOT2024.md))
+
 ## Sponsors
 
 NH Department of Education [link](https://www.education.nh.gov/)
