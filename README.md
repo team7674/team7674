@@ -5,7 +5,7 @@ Team 7674 - The RaiderBots
 
 ## Robot 
 
-[2024 "Fat Albert"](https://github.com/team7674/team7674/ROBOT2024.md))
+[2024 "Fat Albert"](https://github.com/team7674/team7674/ROBOT2024.md)
 
 ## Sponsors
 
