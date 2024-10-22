@@ -1,4 +1,4 @@
-Team 7676 - The RaiderBots
+Team 7674 - The RaiderBots
 ==========================
 
 ![Crescendo](https://github.com/team7674/team7674/blob/main/crescendo.jpg?raw=true)
